@@ -10,4 +10,5 @@ https://github.com/spacehuhn/esp8266_deauther uses deauthentication attack and o
 __This package is compiled for ARM architecture.__
   
 ## Installation:  
-Add `https://raw.githubusercontent.com/anudeepND/esp8266_2.0.0/master/package_esp8266_index.json` to Additional board manager URLs. Go to `Tools` > `Board` > `Boards Manager` and install.
+Add `https://raw.githubusercontent.com/anudeepND/esp8266_2.0.0/master/package_esp8266_index.json` to Additional board manager URLs.    
+Go to `Tools` > `Board` > `Boards Manager` and install.
